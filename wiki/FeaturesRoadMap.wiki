@@ -1,0 +1,14 @@
+#summary This page is a summary of the currently/to be developped features as PHP Classes
+#labels Phase-Requirements,features,roadmap
+
+= Features available = 
+
+  * *RemoteAdmin Class*
+
+= Features in development =
+
+  * Soon...
+
+= Features ideas/wishes... =
+
+  * What about creating an only class regrouping all features / functionalities ?
