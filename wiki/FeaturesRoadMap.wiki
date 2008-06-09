@@ -3,7 +3,7 @@
 
 = Features available = 
 
-  * *RemoteAdmin Class*
+  * [RemoteAdminPHPClass]
 
 = Features in development =
 
