@@ -4,6 +4,7 @@
 = Features available = 
 
   * [RemoteAdminPHPClass]
+  * [RemoteAdminExecutableForWindows RemoteAdmin executable for Windows]
 
 = Features in development =
 
