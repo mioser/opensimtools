@@ -1,0 +1,18 @@
+#labels RemoteAdmin,Featured,Executable
+= RemoteAdmin executable for Windows =
+
+This executable have been compiled with [BamCompile http://www.bambalam.se/bamcompile/] from a PHP script based on the RemoteAdmin  PHP Class.
+
+Download it Downloads section.
+
+= Usage =
+
+It is used in command line :
+
+*RemoteAdmin.exe hostIP password command parameters*
+
+Examples :
+
+RemoteAdmin.exe 127.0.0.1 secret admin_shutdown
+
+RemoteAdmin.exe 77.10.2.1 password admin_broadcast message "My message to send sim wide :D"
